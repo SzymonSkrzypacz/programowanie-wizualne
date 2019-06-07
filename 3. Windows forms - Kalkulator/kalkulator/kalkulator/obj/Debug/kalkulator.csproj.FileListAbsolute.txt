@@ -1,0 +1,20 @@
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\Szymon\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Name.resources
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.Name.resources
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+F:\Studia II\programowanie wizualne\3. Windows forms\kalkulator\kalkulator\obj\Debug\kalkulator.pdb

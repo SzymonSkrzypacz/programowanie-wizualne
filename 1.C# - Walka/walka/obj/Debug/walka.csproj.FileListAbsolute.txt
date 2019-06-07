@@ -1,0 +1,14 @@
+D:\programowanie wizualne\walka\walka\bin\Debug\walka.exe.config
+D:\programowanie wizualne\walka\walka\bin\Debug\walka.exe
+D:\programowanie wizualne\walka\walka\bin\Debug\walka.pdb
+D:\programowanie wizualne\walka\walka\obj\Debug\walka.csprojAssemblyReference.cache
+D:\programowanie wizualne\walka\walka\obj\Debug\walka.csproj.CoreCompileInputs.cache
+D:\programowanie wizualne\walka\walka\obj\Debug\walka.exe
+D:\programowanie wizualne\walka\walka\obj\Debug\walka.pdb
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\bin\Debug\walka.exe.config
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\bin\Debug\walka.exe
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\bin\Debug\walka.pdb
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\obj\Debug\walka.csprojAssemblyReference.cache
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\obj\Debug\walka.csproj.CoreCompileInputs.cache
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\obj\Debug\walka.exe
+F:\Studia\Studia II\Programowanie Wizualne\walka\walka\obj\Debug\walka.pdb

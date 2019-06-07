@@ -1,0 +1,21 @@
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Users\Stacja\Desktop\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+F:\Studia\Studia II\Programowanie Wizualne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+F:\Studia II\programowanie wizualne\2. Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb

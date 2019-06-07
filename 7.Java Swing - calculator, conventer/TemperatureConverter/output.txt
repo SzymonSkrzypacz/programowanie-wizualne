@@ -1,0 +1,12 @@
+Celsius: 38.88889
+Fahrenheit: 102
+Kelvin: 312.0389
+
+Celsius: 100
+Fahrenheit: 212.0
+Kelvin: 373.15
+
+Celsius: 100
+Fahrenheit: 212.0
+Kelvin: 373.15
+
